@@ -21,12 +21,12 @@ const RESOURCES = {
 "game_start.mp3": "2b4106c730a1af5774cbfd325277f5d3",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "1081f9395ebe81f1c2fa31780fb818de",
-"/": "1081f9395ebe81f1c2fa31780fb818de",
-"main.dart.js": "a80db00779ab950bc71401443f24e2b1",
+"index.html": "52791e747a87dde422d15ad0e3dd597f",
+"/": "52791e747a87dde422d15ad0e3dd597f",
+"main.dart.js": "6bbc06bd18839d08408fb679e792033f",
 "manifest.json": "2aa37f726ac5f4e11ef3874a0b76f4e9",
 "timer_bgm.mp3": "476286c92ebee15d3df64db256e13234",
-"version.json": "19cb35fb4a1e8ea92c6010b38eb76a1b"
+"version.json": "19559755b85b066b929c3dff95e2676a"
 };
 
 // The application shell files that are downloaded before a service worker can
