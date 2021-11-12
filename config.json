@@ -28,7 +28,7 @@
             ],
             "game_options":[
                 {"title":"참여", "text":"바이인 : 무료"},
-                {"title":"스타팅 칩", "text":"15,000"},
+                {"title":"스타팅 칩", "text":"10,000"},
                 {"title":"블라인드", "text":"7분"}
             ],
             "giveaway":[
@@ -59,12 +59,11 @@
             ],
             "game_options":[
                 {"title":"참여", "text":"매장이용권 3장"},
-                {"title":"리바인", "text":"1회"},
                 {"title":"최대 엔트리", "text":"15"},
                 {"title":"레지마감", "text":"레벨 10 까지"},
-                {"title":"스타팅칩", "text":"20,000"},
+                {"title":"스타팅칩", "text":"30,000"},
                 {"title":"리바인", "text":"40,000"},
-                {"title":"블라인드", "text":"9분"}
+                {"title":"블라인드", "text":"8분"}
             ],
             "giveaway":[
                 {"title":"1등", "text":""},
